@@ -1,0 +1,6 @@
+Name            :  alif
+Password      :  1234
+Mobile        :  01989326787
+Email         :  alif@gmail.com
+Gender        :  Male
+Occupation    :  Student
